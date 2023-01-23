@@ -1,5 +1,5 @@
-**Hello everyone!**
+    **Hello everyone!**
 
-I'm a young french programmer, 42 student, fullstack dev.
+I'm monkey C.
 
-**Thanks for reading!**
+    **Thanks for reading!**
